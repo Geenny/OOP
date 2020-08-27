@@ -3,3 +3,9 @@
 	height: 100%;
 	min-height: 100vh; */
 }
+
+.app-site {
+	width: 100px;
+	height: 100px;
+	background-color: brown;
+}
